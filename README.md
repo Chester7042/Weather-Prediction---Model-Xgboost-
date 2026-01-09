@@ -1,7 +1,3 @@
-Siap — ini versi **singkat dan tepat** sesuai arah proyek kamu (fokus ke *class weighting*, bukan SMOTE) 👇
-
----
-
 ## Project Overview
 
 Proyek ini bertujuan membangun **model klasifikasi** untuk memprediksi apakah hujan akan terjadi keesokan harinya (*RainTomorrow*) menggunakan dataset cuaca harian dari **Australian Bureau of Meteorology (BOM)**. Dataset mencakup lebih dari sepuluh tahun observasi dari berbagai lokasi di Australia dengan fitur utama seperti suhu, kelembapan, kecepatan angin, dan tekanan udara.
